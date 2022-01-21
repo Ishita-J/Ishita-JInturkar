@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Jinturkar</h1>
 <h3 align="center">A fresher, trying to get the hang of stuff</h3>
 
-- 🌱 I’m currently learning **CS50:Introduction to Computer Science**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **ishita.jinturkar@gmail.com**
 
